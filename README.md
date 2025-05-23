@@ -129,12 +129,9 @@ We welcome collaboration from:
 - **Web3 Projects**: Decentralized energy infrastructure development
 
 ## 📞 Contact Information
-
-**Research Lead**: [Your Name]  
-**Institution**: [Your Institution]  
-**Email**: [research@example.com]  
+  
 **GitHub**: [@ol-s-cloud](https://github.com/ol-s-cloud)  
-**LinkedIn**: [Your LinkedIn Profile]  
+
 
 ### Partnership Opportunities
 - Research collaboration agreements
