@@ -171,12 +171,6 @@ See [SPRINT_STATUS.md](SPRINT_STATUS.md) for current sprint objectives and progr
 
 See [CONTRIBUTION.md](CONTRIBUTION.md) for detailed collaboration guidelines.
 
-## Contact
-
-**Project Lead**: [Your Name]  
-**Email**: [email@institution.edu]  
-**GitHub**: [@username](https://github.com/username)  
-**Institution**: [Your Institution]  
 
 ## License
 
