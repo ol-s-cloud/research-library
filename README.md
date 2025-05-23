@@ -1,172 +1,170 @@
 # 🔬 Energy Systems Research Library
 
-Comprehensive research portfolio focused on energy systems, markets, and sustainable transition technologies. This library contains 15 cutting-edge research projects spanning graph neural networks, Web3 energy oracles, AI-energy integration, and next-generation electricity markets.
+A comprehensive research portfolio focused on energy systems, markets, and sustainable transition technologies. This library contains 15 cutting-edge research projects organized into individual modules, each following standardized documentation and development practices.
 
-## 📊 Research Portfolio Overview
+## Project Status
 
 [![Active Projects](https://img.shields.io/badge/projects-15-brightgreen)](README.md)
 [![Research Focus](https://img.shields.io/badge/focus-energy%20systems-blue)](README.md)
 [![Geographic Scope](https://img.shields.io/badge/scope-EU%20|%20UK%20|%20Global-orange)](README.md)
-[![Data Integration](https://img.shields.io/badge/data-EPEX%20|%20ENTSO--E%20|%20EEX-purple)](README.md)
-
-## 🎯 Research Themes
-
-### 🤖 Machine Learning & AI
-- Advanced forecasting with Graph Neural Networks
-- Crisis prediction systems
-- Digital twins for grid operations
-- Real-time optimization algorithms
-
-### 🌐 Web3 & Blockchain
-- Decentralized energy oracles
-- Synthetic energy markets
-- DAO governance for energy systems
-- Tokenization of renewable assets
-
-### ⚡ Energy Markets & Policy
-- Next-generation market modeling
-- Regulatory framework design
-- Hydrogen-electricity integration
-- Retail market transformation
-
-### 🌱 Climate & Sustainability
-- Grid resilience modeling
-- Technology adoption incentives
-- Decentralized renewable forecasting
-- Net-zero transition pathways
+[![Documentation](https://img.shields.io/badge/docs-standardized-green)](README.md)
 
 ## 📁 Research Projects
 
-| # | Project | Region | Status | Data Sources | Impact Area |
-|---|---------|--------|--------|--------------|-------------|
-| 01 | [GNN Electricity Price Forecasting](01-gnn-electricity-forecasting/) | EU → UK/US | 🔬 Research | EPEX, ENTSO-E | Trading, Grid Planning |
-| 02 | [ML Energy Crisis Warning System](02-ml-energy-crisis-warning/) | EU & UK | 🔬 Research | National Grid, ENTSO-E | Grid Reliability |
-| 03 | [Decentralized Energy Oracle (Web3)](03-decentralized-energy-oracle/) | Global | 🔬 Research | Multiple APIs | DeFi Integration |
-| 04 | [AI-Energy Demand Data Centers](04-ai-energy-demand-datacenters/) | Global | 🔬 Research | Grid operators, Tech firms | Infrastructure Planning |
-| 05 | [Hydrogen-Electricity Market Integration](05-hydrogen-electricity-integration/) | EU & UK | 🔬 Research | Hydrogen Valleys, TSOs | Market Design |
-| 06 | [Retail Energy Markets Net-Zero](06-retail-energy-markets-netzero/) | UK + EU | 🔬 Research | Ofgem, Utility APIs | Consumer Engagement |
-| 07 | [ML Energy System Analytics](07-ml-energy-system-analytics/) | EU, UK, US | 🔬 Research | TSO/DSO data | Grid Optimization |
-| 08 | [Digital Energy Markets Economics](08-digital-energy-markets-economics/) | Global | 🔬 Research | Regulatory bodies | Policy Design |
-| 09 | [Next-Gen Electricity Market Modeling](09-nextgen-electricity-modeling/) | UK + EU | 🔬 Research | Market operators | Market Architecture |
-| 10 | [Energy Technology Adoption Incentives](10-energy-tech-adoption-incentives/) | Global | 🔬 Research | Government databases | Policy Analysis |
-| 11 | [Decentralized Renewable Forecasting Platform](11-decentralized-renewable-forecasting/) | Global | 🔬 Research | Satellite, IoT sensors | Data Democratization |
-| 12 | [Synthetic Energy Market Staking](12-synthetic-energy-market-staking/) | EU | 🔬 Research | Energy exchanges | DeFi Trading |
-| 13 | [Climate Resilience Grid Warning ML](13-climate-resilience-grid-warning/) | UK + EU | 🔬 Research | Weather APIs, Grid data | Risk Management |
-| 14 | [Digital Twin Grid Operations ML](14-digital-twin-grid-operations/) | UK, EU | 🔬 Research | Real-time grid data | Operational Efficiency |
-| 15 | [Real-Time Marginal Cost Pricing](15-realtime-marginal-cost-pricing/) | UK + EU | 🔬 Research | Market data feeds | Dynamic Pricing |
+Each project follows our standardized research framework with dedicated documentation for audit, contribution, evaluation, gap analysis, project status, and sprint planning.
 
-## 🎯 Target Applications
+### 🤖 Machine Learning & AI Projects
+| Project | Status | Region | Data Sources | Documentation |
+|---------|--------|--------|--------------|---------------|
+| [01 - GNN Electricity Price Forecasting](01-gnn-electricity-forecasting/) | 🔬 Research | EU → UK/US | EPEX, ENTSO-E | [Docs](01-gnn-electricity-forecasting/README.md) |
+| [02 - ML Energy Crisis Warning System](02-ml-energy-crisis-warning/) | 🔬 Research | EU & UK | National Grid, ENTSO-E | [Docs](02-ml-energy-crisis-warning/README.md) |
+| [04 - AI-Energy Demand Data Centers](04-ai-energy-demand-datacenters/) | 🔬 Research | Global | Grid operators, Tech firms | [Docs](04-ai-energy-demand-datacenters/README.md) |
+| [07 - ML Energy System Analytics](07-ml-energy-system-analytics/) | 🔬 Research | EU, UK, US | TSO/DSO data | [Docs](07-ml-energy-system-analytics/README.md) |
+| [13 - Climate Resilience Grid Warning ML](13-climate-resilience-grid-warning/) | 🔬 Research | UK + EU | Weather APIs, Grid data | [Docs](13-climate-resilience-grid-warning/README.md) |
+| [14 - Digital Twin Grid Operations ML](14-digital-twin-grid-operations/) | 🔬 Research | UK, EU | Real-time grid data | [Docs](14-digital-twin-grid-operations/README.md) |
 
-### For Industry
-- **Energy Traders**: Advanced forecasting and crisis prediction systems
-- **Grid Operators**: Digital twins and real-time optimization
-- **Utilities**: Retail market transformation and consumer engagement
-- **Tech Companies**: AI-energy demand planning and data center optimization
+### 🌐 Web3 & Blockchain Projects
+| Project | Status | Region | Data Sources | Documentation |
+|---------|--------|--------|--------------|---------------|
+| [03 - Decentralized Energy Oracle](03-decentralized-energy-oracle/) | 🔬 Research | Global | Multiple APIs | [Docs](03-decentralized-energy-oracle/README.md) |
+| [12 - Synthetic Energy Market Staking](12-synthetic-energy-market-staking/) | 🔬 Research | EU | Energy exchanges | [Docs](12-synthetic-energy-market-staking/README.md) |
 
-### For Policy & Research
+### ⚡ Energy Markets & Economics Projects
+| Project | Status | Region | Data Sources | Documentation |
+|---------|--------|--------|--------------|---------------|
+| [05 - Hydrogen-Electricity Market Integration](05-hydrogen-electricity-integration/) | 🔬 Research | EU & UK | Hydrogen Valleys, TSOs | [Docs](05-hydrogen-electricity-integration/README.md) |
+| [06 - Retail Energy Markets Net-Zero](06-retail-energy-markets-netzero/) | 🔬 Research | UK + EU | Ofgem, Utility APIs | [Docs](06-retail-energy-markets-netzero/README.md) |
+| [08 - Digital Energy Markets Economics](08-digital-energy-markets-economics/) | 🔬 Research | Global | Regulatory bodies | [Docs](08-digital-energy-markets-economics/README.md) |
+| [09 - Next-Gen Electricity Market Modeling](09-nextgen-electricity-modeling/) | 🔬 Research | UK + EU | Market operators | [Docs](09-nextgen-electricity-modeling/README.md) |
+| [15 - Real-Time Marginal Cost Pricing](15-realtime-marginal-cost-pricing/) | 🔬 Research | UK + EU | Market data feeds | [Docs](15-realtime-marginal-cost-pricing/README.md) |
+
+### 🌱 Climate & Sustainability Projects
+| Project | Status | Region | Data Sources | Documentation |
+|---------|--------|--------|--------------|---------------|
+| [10 - Energy Technology Adoption Incentives](10-energy-tech-adoption-incentives/) | 🔬 Research | Global | Government databases | [Docs](10-energy-tech-adoption-incentives/README.md) |
+| [11 - Decentralized Renewable Forecasting Platform](11-decentralized-renewable-forecasting/) | 🔬 Research | Global | Satellite, IoT sensors | [Docs](11-decentralized-renewable-forecasting/README.md) |
+
+## 🎯 Research Themes
+
+### Advanced Analytics & AI
+Leveraging machine learning and artificial intelligence for energy system optimization, crisis prediction, and market forecasting.
+
+### Decentralized & Web3 Technologies
+Exploring blockchain, decentralized oracles, and Web3 technologies for next-generation energy market infrastructure.
+
+### Market Design & Economics
+Developing new market models, pricing mechanisms, and economic frameworks for energy transition.
+
+### Climate Resilience & Sustainability
+Building systems for climate adaptation, renewable integration, and sustainable energy transition.
+
+## 📊 Standardized Research Framework
+
+Each research project includes:
+
+- **[PROJECT_STATUS.md](PROJECT_STATUS.md)** - Overall progress, milestones, and component status
+- **[GAP_ANALYSIS.md](GAP_ANALYSIS.md)** - Current state vs. research objectives analysis
+- **[SPRINT_STATUS.md](SPRINT_STATUS.md)** - Development sprints, goals, and achievements
+- **[AUDIT_FRAMEWORK.md](AUDIT_FRAMEWORK.md)** - Quality assurance, testing, and validation guidelines
+- **[CONTRIBUTION.md](CONTRIBUTION.md)** - Guidelines for collaboration and contributions
+- **[EVALUATION.md](EVALUATION.md)** - Success metrics, validation methods, and impact assessment
+- **DATA_SOURCES.md** - Detailed data requirements and access procedures
+
+## 🚀 Quick Start Guide
+
+1. **Browse Projects**: Navigate to individual project folders to explore research areas
+2. **Review Documentation**: Each project has comprehensive documentation following our standard framework
+3. **Check Data Requirements**: Review DATA_SOURCES.md in each project for data access needs
+4. **Request Data Access**: Use provided templates to contact data providers
+5. **Contribute**: Follow CONTRIBUTION.md guidelines in each project
+
+## 📈 Impact & Applications
+
+### Industry Applications
+- **Energy Trading**: Advanced forecasting and market intelligence
+- **Grid Operations**: Digital twins and real-time optimization
+- **Utilities**: Retail market innovation and customer engagement
+- **Tech Companies**: AI infrastructure and energy demand planning
+
+### Policy & Research
 - **Regulators**: Market simulation and policy impact modeling
-- **Think Tanks**: Economic analysis and transition pathway studies
-- **Universities**: Open-source tools and collaborative research
-- **Investors**: Market intelligence and technology adoption insights
+- **Academic Institutions**: Open research collaboration and student projects
+- **Think Tanks**: Policy analysis and transition pathway studies
+- **International Organizations**: Global energy transition initiatives
 
-### For Web3 Ecosystem
+### Web3 Ecosystem
 - **DeFi Protocols**: Energy market tokenization and synthetic trading
-- **DAOs**: Governance mechanisms for energy infrastructure
-- **Oracles**: Real-world energy data integration
+- **DAOs**: Governance for decentralized energy infrastructure
+- **Oracle Networks**: Real-world energy data integration
 - **Climate Tech**: Decentralized renewable energy platforms
 
-## 📊 Data Requirements Summary
+## 📊 Primary Data Sources
 
-### Primary Data Sources
-- **EPEX SPOT**: Intraday electricity prices, trading volumes
-- **ENTSO-E**: Transmission data, generation forecasts, demand patterns
-- **EEX**: Energy derivatives, carbon markets, gas prices
-- **National Grid (UK)**: Balancing mechanism, system frequency data
-- **Ofgem**: Retail market data, regulatory filings
+### Market Data
+- **EPEX SPOT**: European power exchange data
+- **ENTSO-E**: European transmission system operator data
+- **EEX**: European Energy Exchange derivatives and carbon markets
+- **National Grid**: UK system operation and balancing data
+- **Ofgem**: UK energy market regulation and retail data
 
-### Secondary Data Sources
-- Weather APIs (OpenWeatherMap, MetOffice)
-- Satellite imagery for renewable generation
-- IoT sensor networks (smart meters, grid sensors)
-- Government energy statistics
-- Carbon intensity APIs
+### Environmental Data
+- **Copernicus**: European satellite earth observation data
+- **MetOffice**: UK weather and climate data
+- **OpenWeatherMap**: Global weather APIs
+- **Carbon Intensity API**: Real-time carbon intensity data
 
-### Web3 Data Sources
-- Chainlink price feeds
-- DEX trading data
-- Blockchain transaction data
-- DeFi protocol metrics
+### Web3 & DeFi Data
+- **Chainlink**: Decentralized oracle price feeds
+- **The Graph**: Blockchain data indexing
+- **DeFiPulse**: DeFi protocol metrics
+- **Ethereum**: On-chain transaction and contract data
 
-## 🚀 Getting Started
+## 🤝 Collaboration & Partnerships
 
-1. **Choose Your Research Track**: Browse individual project folders
-2. **Review Data Requirements**: Check data source specifications for each project
-3. **Set Up Environment**: Follow setup instructions in project READMEs
-4. **Request Data Access**: Use provided templates to contact data providers
-5. **Join Collaboration**: Contribute to open research initiatives
-
-## 🔄 Development Workflow
-
-Each research project follows a standardized structure:
-- **Gap Analysis**: Current state vs. research objectives
-- **Methodology**: Technical approach and algorithms
-- **Data Requirements**: Detailed data source specifications
-- **Evaluation Framework**: Success metrics and validation
-- **Sprint Planning**: Development milestones and timelines
-- **Contribution Guidelines**: How to participate and collaborate
-
-## 📈 Impact Metrics
-
-- **Academic**: Target 50+ publications in top-tier journals
-- **Industry**: 15+ pilot projects with energy companies
-- **Policy**: Support for EU REPowerEU and UK Net Zero strategies
-- **Innovation**: 10+ patent applications and 5+ startup spinoffs
-- **Open Science**: 100% open-source code and datasets where possible
-
-## 🤝 Collaboration
-
-This research library is designed for collaboration across:
+We welcome collaboration from:
 - **Universities**: Joint research projects and student exchanges
 - **Industry Partners**: Pilot projects and data sharing agreements
 - **Government Bodies**: Policy research and regulatory analysis
 - **International Organizations**: Global energy transition initiatives
+- **Web3 Projects**: Decentralized energy infrastructure development
 
-## 📞 Contact & Partnerships
+## 📞 Contact Information
 
-**Lead Researcher**: [Your Name]  
+**Research Lead**: [Your Name]  
 **Institution**: [Your Institution]  
-**Email**: [Your Email]  
-**LinkedIn**: [Your LinkedIn]  
+**Email**: [research@example.com]  
+**GitHub**: [@ol-s-cloud](https://github.com/ol-s-cloud)  
+**LinkedIn**: [Your LinkedIn Profile]  
 
 ### Partnership Opportunities
-- Data sharing agreements
-- Joint research proposals
+- Research collaboration agreements
+- Data sharing partnerships
+- Joint grant applications
 - Industry pilot projects
-- PhD student exchanges
-- Grant applications
+- PhD and postdoc exchanges
+- Technology transfer and commercialization
+
+## 🔒 Research Ethics & Data Privacy
+
+All research projects adhere to:
+- **GDPR Compliance**: European data protection regulations
+- **Institutional Ethics**: University research ethics board approvals
+- **Open Science**: Transparent methodologies and reproducible research
+- **Data Anonymization**: Privacy-preserving data processing techniques
+- **Responsible AI**: Ethical AI development and deployment practices
 
 ## 📚 Documentation Standards
 
-All projects follow consistent documentation:
-- Clear problem statements and objectives
-- Detailed methodology descriptions
-- Comprehensive data requirements
-- Step-by-step reproduction guides
-- Regular progress updates
-- Impact measurement frameworks
-
-## 🔒 Data Privacy & Ethics
-
-All research adheres to:
-- GDPR compliance for EU data
-- Institutional ethics board approvals
-- Data anonymization best practices
-- Transparent methodology disclosure
-- Open science principles where possible
+Our standardized documentation ensures:
+- **Consistency**: Uniform structure across all projects
+- **Transparency**: Clear methodologies and reproducible results
+- **Collaboration**: Easy onboarding for new contributors
+- **Quality**: Comprehensive testing and validation frameworks
+- **Impact**: Measurable outcomes and success metrics
 
 ---
 
 *Last Updated: May 2025*  
-*Research Library Version: 1.0*  
-*Total Projects: 15*  
-*Status: Active Development*
+*Library Version: 2.0*  
+*Total Active Projects: 15*  
+*Documentation Standard: Circle Core Compatible*
